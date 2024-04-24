@@ -15,9 +15,7 @@ https://github.com/o7Moon/CrabGame.Obtainable
  ~ Created by JMac
 https://github.com/JMac8132/CrabGameBanMod
 
-============================================
-JOIN dsc.gg/ast-tag FOR OFFICIAL MOD UPDATES!
-============================================
+JOIN [dsc.gg/ast-tag](https://dsc.gg/ast-tag) FOR OFFICIAL MOD UPDATES!
 
 Once You Load The Mod The First Time, You'll See 2 Generated Files In Your Plugins Folder:
 
