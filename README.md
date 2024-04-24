@@ -22,6 +22,6 @@ Once You Load The Mod The First Time, You'll See 2 Generated Files In Your Plugi
 1. WhitelistTagModConfig.json - Config Includes IMPORTANT Settings For The Mod Itself, Along With The Database
 2. WhitelistTagModLog.txt - Includes History of Bans, Whitelists, etc.
 
-* Depending On How Long Your Config File Gets, The Game May Start To Lag For You As The Host Overtime, It Is Recommended To Wipe Player Stats/Info & Keep It Somewhere Safe When Starting To Lag & It Is Recommended That You Keep Player Lists Such As WhitelistedPlayers' & StaffPlayers'.
+Depending On How Long Your Config File Gets, The Game May Start To Lag For You As The Host Overtime, It Is Recommended To Wipe Player Stats/Info & Keep It Somewhere Safe When Starting To Lag & It Is Recommended That You Keep Player Lists Such As WhitelistedPlayers' & StaffPlayers'.
 
 If You Need Any Extra Assistance, Join Our Discord Server or Message @dexune On Discord
