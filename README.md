@@ -1,7 +1,6 @@
 # comp-tag-mod
 
 Mod Info:
-^^^^^^^^^
 
 Drag The Following Into Your BepInEx "plugins" Folder
 
@@ -9,10 +8,12 @@ Drag The Following Into Your BepInEx "plugins" Folder
  ~ Created by JMac, Lualt & Dexune
 
 - AntiWeaponBan.dll: Doesn't Ban Players Who Use Weapons/Items (KEEP THIS IF YOU WANT TO USE !shotgun/!db)
- ~ https://github.com/o7Moon/CrabGame.Obtainable
+ ~ Created by o7moon
+https://github.com/o7Moon/CrabGame.Obtainable
 
 - PermBanMod.dll: Permanently Bans Players In Your Lobbies (Optional)
- ~ https://github.com/JMac8132/CrabGameBanMod
+ ~ Created by JMac
+https://github.com/JMac8132/CrabGameBanMod
 
 ============================================
 JOIN dsc.gg/ast-tag FOR OFFICIAL MOD UPDATES!
