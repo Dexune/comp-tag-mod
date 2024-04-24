@@ -2,7 +2,7 @@
 
 Mod Info:
 
-Drag The Following Into Your BepInEx "plugins" Folder
+Download From Releases & Drag The Following Into Your BepInEx "plugins" Folder
 
 - WhitelistTagMod_v#.dll: This Is The Official Comp Tag Mod
  ~ Created by JMac, Lualt & Dexune
