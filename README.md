@@ -11,10 +11,6 @@ Download From Releases & Drag The Following Into Your BepInEx "plugins" Folder
  ~ Created by o7moon
 https://github.com/o7Moon/CrabGame.Obtainable
 
-- PermBanMod.dll: Permanently Bans Players In Your Lobbies (Optional)
- ~ Created by JMac
-https://github.com/JMac8132/CrabGameBanMod
-
 JOIN [dsc.gg/ast-tag](https://dsc.gg/ast-tag) FOR OFFICIAL MOD UPDATES!
 
 Once You Load The Mod The First Time, You'll See 2 Generated Files In Your Plugins Folder:
