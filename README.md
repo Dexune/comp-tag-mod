@@ -7,11 +7,11 @@ Download From Releases & Drag The Following Into Your BepInEx "plugins" Folder
 - CompTagMod.dll: This Is The Official Comp Tag Mod
  ~ Created by JMac, Lualt & Dexune
 
-- AntiWeaponBan.dll: Doesn't Ban Players Who Use Weapons/Items (KEEP THIS IF YOU WANT TO USE !shotgun/!db)
+- AntiWeaponBan.dll: Doesn't Ban Players Who Use Weapons/Items (HEAVILY RECOMMENDED)
  ~ Created by o7moon
 https://github.com/o7Moon/CrabGame.Obtainable
 
-- qol-core.dll: Needed For Updating In Game
+- qol-core.dll: Needed For Updating The Mod In Game With Ease
  ~ Created by Lualt
 https://github.com/Lualttt/qol-core
 
