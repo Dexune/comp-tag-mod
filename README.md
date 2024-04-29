@@ -4,7 +4,7 @@ Mod Info:
 
 Download From Releases & Drag The Following Into Your BepInEx "plugins" Folder
 
-- WhitelistTagMod_v#.dll: This Is The Official Comp Tag Mod
+- CompTagMod.dll: This Is The Official Comp Tag Mod
  ~ Created by JMac, Lualt & Dexune
 
 - AntiWeaponBan.dll: Doesn't Ban Players Who Use Weapons/Items (KEEP THIS IF YOU WANT TO USE !shotgun/!db)
